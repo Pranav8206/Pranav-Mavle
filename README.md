@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Pranav8206
-- 👀 I’m have interest in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me noway
-- 😄 Pronouns: he
-- ⚡ Fun fact: nothing
-- 🤣🤣🤣🤣🤣🤣🤣🤣
+- 👋 Hi, I’m @PranavMavle
+- 🌱 I’m pursuing my engineering. 
+- 📫 Aim is to create impactful softwares. 
 
 <!---
 Pranav8206/Pranav8206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
