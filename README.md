@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PranavMavle
-- 🌱 I’m pursuing my engineering. 
+- 🌱 I’m pursuing engineering. 
 - 📫 Aim is to create impactful softwares. 
 
 <!---
